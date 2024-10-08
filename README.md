@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](fig/fig-overview.pdf)
+![](fig/fig-overview.jpg)
 
 Mental health disorders are one of the most serious diseases in the world. 
 Most people with such a disease lack access to adequate care, which highlights the importance of training models for the diagnosis and treatment of mental health disorders. However, in the mental health domain, privacy concerns limit the accessibility of personalized treatment data, making it challenging to build powerful models.
