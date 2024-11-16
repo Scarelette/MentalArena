@@ -37,9 +37,11 @@ pip install fire numpy jsonlines torch transformers scikit-learn openai
 
 ## Usage
 
-### 1. Obtaining base model
+### 1. Obtaining base model and seed dataset
 
 Get Llama-3-8b model from the website (https://huggingface.co/meta-llama/Meta-Llama-3-8B).
+
+Get roleply-doh_principle from the website (https://huggingface.co/datasets/SALT-NLP/roleplay-doh_principles/tree/main).
 
 
 ### 2. Generate data for model optimization
